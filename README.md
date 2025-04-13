@@ -1,4 +1,5 @@
 # Minimalistic Dark Mod
+![2025-04-1316-40-14-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/38b338da-413c-452d-b0d9-507add25b9f9)
 
 Minimalistic Dark Mod is small firefox theme
 
