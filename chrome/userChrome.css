@@ -1,0 +1,39 @@
+@import url(settings.css);
+
+/* toolbox color */
+#navigator-toolbox,#nav-bar,#TabsToolbar
+{
+    background-color: var(--toolbox-col) !important;
+}
+
+/*toolbar off*/
+#PersonalToolbar {
+    display: none !important;
+}
+
+/*menu popup set*/
+menuitem:hover {
+    background: var(--menupopup-select-col) !important;
+}
+
+menuitem
+{
+    background: var(--menupopup-col) !important;
+}
+
+/*custom menu*/
+#PanelUI-button 
+{ 
+    margin-left: 10px !important; 
+}
+
+#appMenu-popup
+{
+    margin-top: 100px !important;
+    position: fixed !important;
+}
+
+#appMenu-preferences-button 
+{
+    display: none !important;
+}
