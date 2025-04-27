@@ -1,12 +1,14 @@
 @import url(settings.css);
 
-
-
 @-moz-document url(about:home), url(about:newtab)
 {
     body
     {
         background-color: var(--main-bg-col) !important;
+    }
+    .icon.icon-pin-small
+    {
+      display: none !important;
     }
 }
 @media (prefers-color-scheme: dark) {
